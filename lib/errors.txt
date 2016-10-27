@@ -1,0 +1,17 @@
+Race
+  #name
+    has a name (FAILED - 1)
+  #race_type
+    has a race_type (FAILED - 2)
+  #distance
+    has a distance (FAILED - 3)
+  #km_times
+    has km_times (FAILED - 4)
+  #total_time
+    has a total time (FAILED - 5)
+  slowest_km
+    can get the time for the km that took the longest amount of time (FAILED - 6)
+  quickest_km
+    can get the time for the km that took the least amount of time (FAILED - 7)
+  #avg_time_per_km
+    has an average time per km rounded to 2 decimal places (FAILED - 8)
